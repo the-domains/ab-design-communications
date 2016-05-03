@@ -1,0 +1,28 @@
+name: AB Design Communications
+favicon: null
+layout_spectrum: 0.5604721133131534
+typography_spectrum: 0.4617707561701536
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7135837655514479
+  lightness: 0.9252248739358038
+  saturation: 0.8529525471385568
+  rhythmicContrast: 0.9619605131447315
+purpose: []
